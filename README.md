@@ -8,7 +8,7 @@
 <img
   src="https://github.com/ricotorres-it.png"
   width="145"
-  alt="Rico Torres GitHub Profile"
+  alt="Rico Torres GitHub profile photo"
 />
 
 # Hi, I'm Rico Torres 👋
@@ -20,6 +20,8 @@ solutions, automating routine processes, and improving operational visibility.
 
 📍 San Jose Del Monte, Bulacan, Philippines
 
+<br>
+
 [![Email](https://img.shields.io/badge/Email-ricordrgz8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricordrgz8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ricotorres--it-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricotorres-it)
 [![Phone](https://img.shields.io/badge/Phone-%2B63_924_256_3694-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+639242563694)
@@ -30,70 +32,35 @@ solutions, automating routine processes, and improving operational visibility.
 
 ---
 
-## 👨‍💻 Professional Summary
-
-Junior System Administrator with experience supporting Linux servers,
-Windows systems, web hosting, WordPress administration, Google Workspace,
-VPN access, backups, endpoint security, monitoring, and IT asset management.
-
-I specialize in:
-
-- Automating routine IT checks
-- Supporting Linux and Windows environments
-- Managing WordPress websites and web-hosting services
-- Monitoring servers, backups, websites, and endpoint security
-- Developing and customizing GLPI 11 modules
-- Documenting technical processes and user instructions
-- Troubleshooting system, account, access, and website issues
+<p align="center">
+  <a href="#-about-me">About Me</a> •
+  <a href="#-technical-skills">Skills</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-project-gallery">Screenshots</a> •
+  <a href="#-work-experience">Experience</a> •
+  <a href="#-certifications">Certifications</a> •
+  <a href="#-contact">Contact</a>
+</p>
 
 ---
 
-<table>
-<tr>
+# 👨‍💻 About Me
 
-<td width="50%" valign="top">
+Junior System Administrator with experience supporting Linux servers,
+Windows systems, WordPress websites, web-hosting environments, Google
+Workspace, VPN access, backups, endpoint security, monitoring, and IT asset
+management.
 
-## 🔗 What I Do
+My work focuses on:
 
-- ✅ Windows and Linux administration
-- ✅ WordPress and web-hosting management
-- ✅ Server monitoring and troubleshooting
-- ✅ Backup monitoring and restoration
-- ✅ DNS and SSL administration
-- ✅ IT automation and process improvement
-- ✅ Endpoint and website security
-- ✅ Technical support and ticket handling
-- ✅ User onboarding and offboarding
-- ✅ IT asset and subscription management
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🧰 Core Technologies
-
-![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-111827?style=flat-square&logo=gnubash&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-2563EB?style=flat-square&logo=powershell&logoColor=white)
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-![GLPI](https://img.shields.io/badge/GLPI_11-2563EB?style=flat-square)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white)
-![Bitdefender](https://img.shields.io/badge/Bitdefender-ED1C24?style=flat-square)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-111827?style=flat-square&logo=tailscale&logoColor=white)
-
-</td>
-
-</tr>
-</table>
+- Linux and Windows system support
+- WordPress and web-hosting administration
+- Server, website, and backup monitoring
+- GLPI 11 development and customization
+- IT automation and process improvement
+- User onboarding and access management
+- Technical troubleshooting and documentation
+- Website security and performance monitoring
 
 ---
 
@@ -106,9 +73,9 @@ I specialize in:
 
 ### 90%
 
-**Reduction in manual IT-checking time**
+**Less manual IT-checking time**
 
-Developed an automated Windows monthly IT-check process.
+Developed automated workstation inspection and reporting.
 
 </td>
 
@@ -118,7 +85,7 @@ Developed an automated Windows monthly IT-check process.
 
 **Daily support tickets**
 
-Handled technical requests through phone, email, and chat.
+Handled requests through phone, email, and chat.
 
 </td>
 
@@ -126,9 +93,9 @@ Handled technical requests through phone, email, and chat.
 
 ### 85–90%
 
-**First-contact resolution rate**
+**First-contact resolution**
 
-Resolved common system, software, and access problems.
+Resolved common system, software, and access issues.
 
 </td>
 
@@ -136,7 +103,7 @@ Resolved common system, software, and access problems.
 
 ### 99%+
 
-**Business data accuracy**
+**Data accuracy**
 
 Maintained and validated operational records.
 
@@ -146,146 +113,9 @@ Maintained and validated operational records.
 
 ### 20%
 
-**Processing improvement**
+**Workflow improvement**
 
-Improved data workflows using Microsoft Excel.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 💻 IT Monthly Check Automation
-
-Developed a Windows-based automation process that performs routine workstation
-and system inspections.
-
-### Key functions
-
-- Windows system-health checking
-- DISM and SFC validation
-- Disk-health and storage monitoring
-- Firewall and security-status checks
-- Temporary-file cleanup
-- Local-user inspection
-- Windows activation checking
-- Restore-point validation
-- Automatic report generation
-- Monthly GLPI report integration
-
-### Result
-
-Reduced manual workstation inspection time by approximately **90%** and
-improved the consistency of monthly IT reports.
-
-### Technologies
-
-![Batch](https://img.shields.io/badge/Batch_Script-111827?style=flat-square&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-2563EB?style=flat-square&logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-16A34A?style=flat-square)
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🗄️ PrimeView GLPI IT Management System
-
-Implemented and customized GLPI 11 to centralize IT operations,
-infrastructure monitoring, asset management, support tickets, employee
-services, and reporting.
-
-### Key functions
-
-- IT asset management
-- Ticket and incident tracking
-- Server inventory
-- Server-health monitoring
-- Website and domain inventory
-- Monthly IT-check reporting
-- Backup monitoring
-- Employee device mapping
-- Company subscription tracking
-- Custom role-based access
-- Client support portal
-
-### Technologies
-
-![GLPI](https://img.shields.io/badge/GLPI_11-2563EB?style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🌐 WordPress and Web-Hosting Administration
-
-Managed WordPress websites and hosting environments using cPanel,
-Cloudflare, GoDaddy, and WPMU DEV.
-
-### Responsibilities
-
-- WordPress core updates
-- Plugin and theme updates
-- DNS configuration
-- SSL certificate management
-- Website backups and restoration
-- Website access management
-- Performance monitoring
-- Website security checks
-- Plugin troubleshooting
-- PHP and database troubleshooting
-
-### Technologies
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![SSL](https://img.shields.io/badge/SSL-16A34A?style=flat-square&logo=letsencrypt&logoColor=white)
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🖥️ Linux Server Monitoring and Backup Management
-
-Supported Linux-based hosting environments through SSH and command-line
-administration tools.
-
-### Responsibilities
-
-- Server-health monitoring
-- Linux log review
-- File and directory management
-- File-permission troubleshooting
-- Backup monitoring
-- Archive creation and extraction
-- Backup-file transfers
-- Service-status checking
-- Command-line diagnostics
-- Website uptime monitoring
-
-### Technologies
-
-![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-2563EB?style=flat-square&logo=gnubash&logoColor=white)
-![UptimeRobot](https://img.shields.io/badge/UptimeRobot-3BD671?style=flat-square&logo=uptimerobot&logoColor=white)
-![Synology](https://img.shields.io/badge/Synology_Backup-B5B5B6?style=flat-square&logo=synology&logoColor=black)
+Improved data-processing workflows using Excel.
 
 </td>
 
@@ -294,626 +124,7 @@ administration tools.
 
 ---
 
-# 🏢 PrimeView Platform Projects
-
-The following projects are part of a connected internal IT, employee,
-administration, and client-support platform.
-
-> **Portfolio note:** These projects are presented as sanitized technical
-> overviews. No credentials, employee records, customer information, private
-> databases, or proprietary source code are included.
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🖥️ inventory.primeview.com
-
-### Central GLPI IT Management Platform
-
-The main GLPI 11 platform used to centralize PrimeView IT operations,
-infrastructure monitoring, asset management, and reporting.
-
-### Main functions
-
-- IT asset inventory
-- Support-ticket management
-- Server inventory
-- Server-health records
-- Domain and website inventory
-- Monthly IT-check reporting
-- Backup monitoring
-- Employee device tracking
-- Software inventory
-- Company subscription monitoring
-- IT monitoring dashboards
-- Historical activity records
-
-### My responsibilities
-
-- Installed and configured GLPI 11
-- Developed custom GLPI plugins
-- Created custom database tables
-- Built automated monitoring workflows
-- Customized menus and dashboards
-- Implemented access restrictions
-- Created technical documentation
-- Connected external scripts through APIs
-
-### Technologies
-
-![GLPI](https://img.shields.io/badge/GLPI_11-2563EB?style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-16A34A?style=flat-square)
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🏢 admin.primeview.com
-
-### PrimeView Administration Portal
-
-Internal administration portal used to manage employees, timekeeping,
-leave requests, payroll-related processes, and administrative workflows.
-
-### Main functions
-
-- Employee account management
-- Employee information records
-- Company assignment
-- Timekeeping administration
-- Manual-time adjustments
-- Attendance monitoring
-- Leave-request management
-- Leave-type configuration
-- Payroll-related administration
-- Employee status management
-- Administrative reports
-
-### My responsibilities
-
-- Rebuilt the administration interface
-- Developed employee-management workflows
-- Added timekeeping functions
-- Added manual-time adjustment tools
-- Improved administrative navigation
-- Connected portal data with internal systems
-- Implemented role-based access
-- Fixed timekeeping and payroll workflow issues
-
-### Technologies
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 👥 hub.primeview.com
-
-### PrimeView Employee Hub
-
-Employee self-service portal that gives employees access to their work
-information and internal request processes.
-
-### Main functions
-
-- Employee dashboard
-- Timekeeping records
-- Attendance information
-- Manual-time requests
-- Leave filing
-- Leave-status tracking
-- Payslip access
-- Employee profile information
-- Certificate of Employment requests
-- Evaluation notifications
-- Internal announcements
-- Company-specific employee access
-
-### My responsibilities
-
-- Developed the employee-facing interface
-- Improved dashboard usability
-- Added timekeeping workflows
-- Added manual-time request functionality
-- Added leave-management functions
-- Created employee self-service features
-- Improved mobile and desktop layouts
-- Connected employee records with the admin portal
-
-### Technologies
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Responsive UI](https://img.shields.io/badge/Responsive_UI-16A34A?style=flat-square)
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎫 clientportal.primeview.com
-
-### PrimeView Client Support Portal
-
-Customized GLPI client portal that allows customers to report technical
-issues, request services, submit inquiries, and track support tickets.
-
-### Main functions
-
-- Report an Issue form
-- Request a Service form
-- General Inquiries form
-- Client ticket history
-- Ticket-status tracking
-- Customized client homepage
-- Account dropdown menu
-- Simplified client navigation
-- Custom `/pvhelpdesk` route
-- Automatic portal redirects
-- Branded support experience
-
-### My responsibilities
-
-- Rebuilt the client-facing interface
-- Customized GLPI ticket forms
-- Simplified the support-request process
-- Created the `/pvhelpdesk` experience
-- Improved ticket-history pages
-- Added portal redirects
-- Customized branding and navigation
-- Fixed account-menu and layout issues
-
-### Technologies
-
-![GLPI](https://img.shields.io/badge/GLPI_11-2563EB?style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Help Desk](https://img.shields.io/badge/Help_Desk-16A34A?style=flat-square)
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧩 Custom GLPI Modules
-
-<details open>
-<summary><strong>🌐 Domain Manager</strong></summary>
-
-<br>
-
-Centralized domain and website inventory module used to monitor managed
-WordPress websites.
-
-### Features
-
-- Livesite domain inventory
-- SSL-status monitoring
-- WordPress-version tracking
-- PHP-version tracking
-- Installed-plugin inventory
-- Plugin-version tracking
-- Website activity logs
-- Domain reports
-- Domain-detail pages
-- WordPress REST API integration
-- CSV fallback support
-- Backend-access connection
-
-### Result
-
-Created a central source of technical information for managed websites,
-reducing the need to check each WordPress dashboard manually.
-
-### Technologies
-
-![GLPI](https://img.shields.io/badge/GLPI_11-2563EB?style=flat-square)
-![WordPress](https://img.shields.io/badge/WordPress_REST_API-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-111827?style=flat-square&logo=json&logoColor=white)
-
-</details>
-
----
-
-<details>
-<summary><strong>🔐 Backend Access Manager</strong></summary>
-
-<br>
-
-Administrative-access inventory connected to the Domain Manager module.
-
-### Features
-
-- Domain-access records
-- WordPress login paths
-- cPanel usernames
-- Administrative usernames
-- Masked-password fields
-- Access notes
-- Favorite records
-- Livesite and devsite filtering
-- Connection to Domain Manager
-
-### Security
-
-No passwords, API keys, or real customer access details are published in
-this portfolio.
-
-</details>
-
----
-
-<details open>
-<summary><strong>🩺 Monthly IT Check</strong></summary>
-
-<br>
-
-Monthly workstation-inspection and reporting module integrated with automated
-Windows IT-check scripts.
-
-### Features
-
-- Monthly IT-report importing
-- Employee and computer mapping
-- Healthy, warning, and critical statuses
-- Monthly completion tracking
-- Historical report records
-- Drag-and-drop report import
-- Employee checklist dashboard
-- Device-name normalization
-- Centralized monthly results
-
-### Result
-
-Reduced manual workstation-inspection time by approximately **90%** while
-improving reporting consistency.
-
-### Technologies
-
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-111827?style=flat-square&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-2563EB?style=flat-square&logo=powershell&logoColor=white)
-![GLPI](https://img.shields.io/badge/GLPI_11-2563EB?style=flat-square)
-
-</details>
-
----
-
-<details>
-<summary><strong>📡 IT Monitoring</strong></summary>
-
-<br>
-
-Central infrastructure-monitoring module that receives and stores automated
-IT-check results.
-
-### Features
-
-- Server-health monitoring
-- WHM backup monitoring
-- Internet speed-test records
-- Synology backup monitoring
-- Backblaze monitoring
-- Bitdefender threat records
-- Automated health-check jobs
-- Historical monitoring results
-- Automatic ticket creation
-- Issue and warning detection
-
-### Automation
-
-Scheduled Linux scripts and cron jobs collect infrastructure information and
-send the results to GLPI.
-
-</details>
-
----
-
-<details open>
-<summary><strong>🖥️ Servers and Server Health Records</strong></summary>
-
-<br>
-
-Custom GLPI asset sections created specifically for server infrastructure.
-
-### Features
-
-- Separate Servers asset menu
-- Server identity and operating-system information
-- Daily server-health records
-- CPU and load monitoring
-- Memory checks
-- Disk-space checks
-- Service-status checks
-- WHM backup-status history
-- Important server notes
-- Automated issue detection
-- Historical server monitoring
-
-### Monitored environment
-
-- Multiple Linux and cPanel servers
-- Daily scheduled health checks
-- Centralized GLPI history
-- Automatic ticket creation when issues are detected
-
-### Result
-
-Separated server infrastructure from employee computers and created a clear
-historical view of server health.
-
-</details>
-
----
-
-<details>
-<summary><strong>🛡️ PrimeView IAM</strong></summary>
-
-<br>
-
-Custom role-based access-control system developed for internal GLPI users.
-
-### Features
-
-- Custom internal roles
-- Module-level access permissions
-- Direct URL protection
-- Sidebar-menu filtering
-- Restricted page access
-- Hidden unauthorized modules
-- Centralized permission management
-- Super-administrator bypass
-
-### Supported roles
-
-- Administrator
-- IT
-- Developer
-- Sales
-- Account Representative
-- Virtual Assistant
-- Digital Marketing
-- Designer
-- AI Specialist
-- Accounting
-
-### Result
-
-Improved internal access control by ensuring users can only open modules
-assigned to their role.
-
-</details>
-
----
-
-<details open>
-<summary><strong>💳 Company Subscription</strong></summary>
-
-<br>
-
-Company subscription, renewal, and payment-monitoring module.
-
-### Features
-
-- Company subscription inventory
-- Subscription-fee records
-- Due-date tracking
-- Overdue-payment detection
-- Due-this-month reports
-- Payment-status history
-- Subscription logos
-- CSV export
-- Access-history records
-- Password-protected access
-- Slack status reporting
-
-### Slack automation
-
-- Daily status report
-- `/pvstatus` Slack command
-- Overdue grouping
-- Due-this-month grouping
-- Paid and unpaid status checking
-- Paid items hidden from pending-payment results
-
-### Technologies
-
-![GLPI](https://img.shields.io/badge/GLPI_11-2563EB?style=flat-square)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</details>
-
----
-
-<details>
-<summary><strong>📊 PrimeView Dashboard</strong></summary>
-
-<br>
-
-Custom GLPI dashboard that provides a simplified view of important IT
-operations.
-
-### Features
-
-- Open-ticket summary
-- Top active tickets
-- Asset counts
-- Software status
-- Server-monitoring summary
-- Website-monitoring information
-- Monthly IT-check status
-- Backup-monitoring information
-- User-friendly dashboard cards
-- Responsive interface
-- Centralized operational overview
-
-### Result
-
-Improved visibility of important IT information for both technical and
-non-technical users.
-
-</details>
-
----
-
-<details>
-<summary><strong>🛡️ Bitdefender Users</strong></summary>
-
-<br>
-
-Centralized Bitdefender user and device inventory.
-
-### Features
-
-- Employee security-user records
-- Device assignments
-- CSV importing
-- Employee and computer mapping
-- Security-status visibility
-- Monthly IT Check integration
-- Search and filtering
-- Device inventory tracking
-
-</details>
-
----
-
-<details>
-<summary><strong>🎫 PrimeView Client Portal Plugin</strong></summary>
-
-<br>
-
-Custom GLPI plugin developed to provide clients with a simplified
-support experience.
-
-### Features
-
-- Custom portal homepage
-- Report an Issue workflow
-- Request a Service workflow
-- General Inquiries workflow
-- Customized My Tickets page
-- Branded headers and navigation
-- Account-menu integration
-- `/pvhelpdesk` routing
-- Client-only interface
-- Simplified form fields
-
-</details>
-
----
-
-<details>
-<summary><strong>🤖 WordPress Inventory Agent</strong></summary>
-
-<br>
-
-WordPress inventory agent developed to collect technical information from
-managed websites.
-
-### Information collected
-
-- WordPress version
-- PHP version
-- Installed plugins
-- Plugin versions
-- Website inventory details
-
-### Integration
-
-The information is made available through a secured WordPress REST API and
-displayed inside the GLPI Domain Manager.
-
-### Technologies
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-16A34A?style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-111827?style=flat-square&logo=json&logoColor=white)
-
-</details>
-
----
-
-# ⚙️ Automation and Integrations
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-## Server Automation
-
-- Linux Bash scripts
-- Scheduled cron jobs
-- Server-health checks
-- WHM backup verification
-- Service-status monitoring
-- Disk-space monitoring
-- Automatic issue detection
-- GLPI API submission
-
-</td>
-
-<td width="33%" valign="top">
-
-## Website Automation
-
-- WordPress REST API
-- Plugin inventory collection
-- PHP-version collection
-- WordPress-version collection
-- SSL-status checking
-- Website availability checks
-- Website technical reports
-- Domain inventory synchronization
-
-</td>
-
-<td width="33%" valign="top">
-
-## Business Automation
-
-- Slack status reports
-- Company subscription notifications
-- Monthly IT-check importing
-- Employee-device mapping
-- Automatic GLPI ticket creation
-- Renewal tracking
-- Historical reporting
-- Monitoring dashboards
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🛠️ Technical Skills
+# 🧰 Technical Skills
 
 <table>
 <tr>
@@ -926,12 +137,12 @@ displayed inside the GLPI Domain Manager.
 - Windows Server
 - SSH
 - MobaXterm
-- Bash
+- Bash scripting
 - PowerShell
+- Windows Batch
 - User provisioning
-- File permissions
-- Server monitoring
-- Log review
+- Permission management
+- Log analysis
 - Backup monitoring
 - Command-line troubleshooting
 
@@ -946,13 +157,13 @@ displayed inside the GLPI Domain Manager.
 - Cloudflare
 - GoDaddy
 - WPMU DEV
+- Apache
+- LiteSpeed
 - DNS administration
 - SSL management
 - Website backups
 - Plugin and theme updates
-- Website security
-- Apache
-- LiteSpeed
+- Website troubleshooting
 
 </td>
 
@@ -968,10 +179,10 @@ displayed inside the GLPI Domain Manager.
 - jQuery
 - REST APIs
 - JSON
-- Bash scripting
-- PowerShell
-- Windows Batch
-- Git and GitHub
+- Git
+- GitHub
+- Cron automation
+- Technical documentation
 
 </td>
 
@@ -984,16 +195,17 @@ displayed inside the GLPI Domain Manager.
 ## Security and Access
 
 - Bitdefender
+- Wordfence
+- Cloudflare security
 - OpenVPN
 - Tailscale
-- VPN configuration
 - Secure remote access
 - Patch management
 - Endpoint security
-- Wordfence
-- Cloudflare security
 - AnyDesk
 - Acronis Cyber Connect
+- Bot protection
+- Rate limiting
 
 </td>
 
@@ -1006,11 +218,12 @@ displayed inside the GLPI Domain Manager.
 - Ticket handling
 - Incident logging
 - SLA support
-- Company subscription tracking
-- Technical documentation
+- Server inventory
+- Subscription tracking
 - User onboarding
 - User offboarding
-- Access control
+- Role-based access
+- Process documentation
 
 </td>
 
@@ -1028,6 +241,595 @@ displayed inside the GLPI Domain Manager.
 - Microsoft Excel
 - SAP
 - WMS
+- Server-health monitoring
+- Website-performance checks
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-2563EB?style=for-the-badge&logo=powershell&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI_11-2563EB?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🗄️ PrimeView GLPI IT Management System
+
+Implemented and customized a GLPI 11 environment that centralizes IT
+operations, asset management, support tickets, infrastructure monitoring,
+website inventory, employee devices, backups, and administrative workflows.
+
+### Main functions
+
+- IT asset and server inventory
+- Support-ticket management
+- Server-health monitoring
+- Website and domain inventory
+- Monthly IT-check reporting
+- Backup-status monitoring
+- Employee-device mapping
+- Bitdefender user monitoring
+- Company subscription tracking
+- Custom dashboards and reports
+- Role-based access control
+- Client support portal
+
+### Technologies
+
+![GLPI](https://img.shields.io/badge/GLPI_11-2563EB?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-16A34A?style=flat-square)
+![Cron](https://img.shields.io/badge/Cron_Automation-F59E0B?style=flat-square)
+
+---
+
+## 💻 IT Monthly Check Automation
+
+Developed a Windows-based automation script that performs routine workstation
+and system inspections.
+
+### Main checks
+
+- DISM and SFC system validation
+- Disk health and free-space checks
+- Firewall and security-status checks
+- Windows activation status
+- Installed-program review
+- Local-user inspection
+- Temporary-file cleanup
+- Restore-point checking
+- Automatic report generation
+- GLPI monthly-report integration
+
+### Result
+
+Reduced manual workstation inspection time by approximately **90%** and
+improved the consistency of monthly IT reporting.
+
+### Technologies
+
+![Batch](https://img.shields.io/badge/Batch_Script-111827?style=flat-square&logo=windows-terminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-2563EB?style=flat-square&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI_11-2563EB?style=flat-square)
+
+---
+
+## 🌐 WordPress and Web-Hosting Administration
+
+Managed WordPress websites and hosting environments using cPanel, Cloudflare,
+GoDaddy, and WPMU DEV.
+
+### Responsibilities
+
+- WordPress core, plugin, and theme updates
+- DNS configuration and troubleshooting
+- SSL certificate management
+- Website backups and restoration
+- PHP and database troubleshooting
+- Website-access management
+- Performance monitoring
+- Security monitoring
+- Malware and bot mitigation
+- Apache and LiteSpeed troubleshooting
+
+---
+
+## 🖥️ Linux Server Monitoring and Backup Management
+
+Supported Linux-based hosting environments through SSH and command-line tools.
+
+### Responsibilities
+
+- Linux log review
+- Server-health monitoring
+- CPU, memory, and disk checks
+- File and directory management
+- File-permission troubleshooting
+- Archive creation and extraction
+- Backup-file transfers
+- WHM backup monitoring
+- Service-status checking
+- Website uptime monitoring
+- Incident investigation
+
+---
+
+# 🏢 PrimeView Platform Projects
+
+## `inventory.primeview.com`
+
+Central GLPI platform for IT operations, monitoring, asset management,
+reporting, website inventory, and server-health records.
+
+### My responsibilities
+
+- Installed and configured GLPI 11
+- Developed custom plugins
+- Created custom database tables
+- Built monitoring dashboards
+- Connected automated scripts through APIs
+- Created server-health workflows
+- Customized menus and permissions
+- Created technical documentation
+
+---
+
+## `admin.primeview.com`
+
+Internal administration portal for employee management, timekeeping, leave,
+payroll, documents, announcements, and reports.
+
+### Main functions
+
+- Employee-management workflows
+- Leave approval and tracking
+- Timekeeping administration
+- Manual-time adjustments
+- Payroll processing
+- Payslip generation
+- Documents and reports
+- Administrative dashboards
+- Company-based employee management
+
+---
+
+## `hub.primeview.com`
+
+Employee self-service portal for accessing work records and submitting
+internal requests.
+
+### Main functions
+
+- Employee dashboard
+- Time records
+- Leave requests
+- Leave-status tracking
+- Payslip access
+- Manual-time requests
+- Announcements
+- Activity feed
+- Employee profile
+- Internal support access
+
+---
+
+## `clientportal.primeview.com`
+
+Customized client-facing GLPI portal for technical support and service
+requests.
+
+### Main functions
+
+- Report an Issue
+- Request a Service
+- General Inquiries
+- My Tickets
+- Ticket-status tracking
+- Client account navigation
+- Branded support interface
+- Simplified request forms
+- Custom `/pvhelpdesk` route
+
+---
+
+# 🧩 Custom GLPI Modules
+
+<details open>
+<summary><strong>🌐 Domain Manager</strong></summary>
+
+<br>
+
+Centralized domain and website inventory.
+
+### Features
+
+- Domain inventory
+- WordPress-version monitoring
+- PHP-version monitoring
+- Plugin and plugin-version inventory
+- SSL-status monitoring
+- Backend-access integration
+- Activity logging
+- Domain reporting
+- WordPress REST API integration
+
+</details>
+
+<details>
+<summary><strong>🔐 Backend Access Manager</strong></summary>
+
+<br>
+
+Administrative-access inventory connected to managed domains.
+
+### Features
+
+- WordPress login paths
+- cPanel usernames
+- Administrative usernames
+- Masked-password fields
+- Access notes
+- Favorite records
+- Livesite and devsite filtering
+
+</details>
+
+<details open>
+<summary><strong>📡 IT Monitoring</strong></summary>
+
+<br>
+
+Central monitoring module for infrastructure and operational checks.
+
+### Features
+
+- Server-health monitoring
+- WHM backup monitoring
+- WFH speed-test records
+- Synology backup monitoring
+- Backblaze monitoring
+- Bitdefender threat records
+- Automated health-check jobs
+- Warning and critical alerts
+- Automatic ticket creation
+
+</details>
+
+<details>
+<summary><strong>🩺 Monthly IT Check</strong></summary>
+
+<br>
+
+Monthly workstation-inspection and reporting module.
+
+### Features
+
+- Automated report import
+- Employee and computer mapping
+- Healthy, warning, and critical statuses
+- Monthly completion tracking
+- Historical report records
+- Device-name normalization
+- Central reporting dashboard
+
+</details>
+
+<details>
+<summary><strong>🖥️ Servers and Server Health Records</strong></summary>
+
+<br>
+
+Separate GLPI asset sections developed specifically for server infrastructure.
+
+### Features
+
+- Dedicated Servers menu
+- Daily health records
+- CPU, memory, and disk monitoring
+- Service checks
+- Backup-status history
+- Important server notes
+- Automated issue detection
+- Historical monitoring results
+
+</details>
+
+<details>
+<summary><strong>🛡️ PrimeView IAM</strong></summary>
+
+<br>
+
+Custom role-based access system for internal GLPI users.
+
+### Features
+
+- Module-level permissions
+- Direct URL protection
+- Sidebar-menu filtering
+- Restricted page access
+- Unauthorized-module hiding
+- Centralized permission management
+- Super-administrator bypass
+
+### Supported roles
+
+- Administrator
+- IT
+- Developer
+- Sales
+- Account Representative
+- Virtual Assistant
+- Digital Marketing
+- Designer
+- AI Specialist
+- Accounting
+
+</details>
+
+<details>
+<summary><strong>💳 Company Subscription</strong></summary>
+
+<br>
+
+Company subscription, payment, and renewal-monitoring module.
+
+### Features
+
+- Company subscription inventory
+- Subscription-fee records
+- Due-date monitoring
+- Overdue detection
+- Due-this-month reports
+- Payment-status history
+- CSV export
+- Password-protected access
+- Slack reporting
+- `/pvstatus` command
+
+</details>
+
+<details>
+<summary><strong>📊 PrimeView Dashboard</strong></summary>
+
+<br>
+
+Custom GLPI dashboard for operational information.
+
+### Features
+
+- Open-ticket summary
+- Asset counts
+- Software status
+- Ticket charts
+- Server-health information
+- Website-monitoring information
+- Backup-status information
+- Monthly IT-check status
+- Responsive dashboard cards
+
+</details>
+
+<details>
+<summary><strong>🛡️ Bitdefender Users</strong></summary>
+
+<br>
+
+Centralized Bitdefender user and device inventory.
+
+### Features
+
+- Employee security records
+- Device assignments
+- CSV importing
+- Employee and computer mapping
+- Security-status visibility
+- Monthly IT Check integration
+- Search and filtering
+
+</details>
+
+<details>
+<summary><strong>🤖 WordPress Inventory Agent</strong></summary>
+
+<br>
+
+WordPress agent that securely collects technical website information.
+
+### Information collected
+
+- WordPress version
+- PHP version
+- Installed plugins
+- Plugin versions
+- Website inventory information
+
+The information is sent through a secured WordPress REST API and displayed in
+the GLPI Domain Manager.
+
+</details>
+
+---
+
+# 📷 Project Gallery
+
+> The screenshots below are used for portfolio presentation. Confidential
+> employee, client, credential, payroll, infrastructure, and account
+> information should be removed or replaced with sample information before
+> public publishing.
+
+---
+
+## 🌐 Domain Manager
+
+Centralized domain inventory, backend-access management, website technical
+information, activity logging, and reporting.
+
+<p align="center">
+  <img
+    src="assets/projects/domain-manager.png"
+    width="100%"
+    alt="PrimeView Domain Manager"
+  />
+</p>
+
+---
+
+## 👥 PrimeView Employee Hub
+
+Employee self-service interface for leave requests, payslips, announcements,
+activity updates, and internal tools.
+
+<p align="center">
+  <img
+    src="assets/projects/employee-hub.png"
+    width="100%"
+    alt="PrimeView Employee Hub"
+  />
+</p>
+
+---
+
+## 📊 PrimeView Global Dashboard
+
+Central GLPI dashboard for tickets, assets, software, licenses, contracts,
+problems, and operational reporting.
+
+<p align="center">
+  <img
+    src="assets/projects/gglpi-dashboard.png"
+    width="100%"
+    alt="PrimeView Global GLPI Dashboard"
+  />
+</p>
+
+---
+
+## 📡 IT Monitoring Dashboard
+
+Centralized monitoring for server health, WFH speed-test submissions,
+backups, alerts, security threats, and daily IT operations.
+
+<p align="center">
+  <img
+    src="assets/projects/server-health1.png"
+    width="100%"
+    alt="PrimeView IT Monitoring Dashboard"
+  />
+</p>
+
+---
+
+## 🛡️ Server Health and Security Monitoring
+
+Monitoring interface for server resources, backup records, Bitdefender users,
+security threats, and infrastructure status.
+
+<p align="center">
+  <img
+    src="assets/projects/server-health2.png"
+    width="100%"
+    alt="PrimeView Server Health and Security Monitoring"
+  />
+</p>
+
+---
+
+## 🏢 PrimeView Admin Center
+
+Internal administration interface for employees, leave, timekeeping, payroll,
+documents, announcements, and reports.
+
+<p align="center">
+  <img
+    src="assets/projects/admin-portal.png"
+    width="100%"
+    alt="PrimeView Administration Portal"
+  />
+</p>
+
+---
+
+## 🎫 PrimeView Client Support Portal
+
+Client-facing portal for reporting issues, requesting services, submitting
+inquiries, and tracking support tickets.
+
+<p align="center">
+  <img
+    src="assets/projects/client-portal.png"
+    width="100%"
+    alt="PrimeView Client Support Portal"
+  />
+</p>
+
+---
+
+# ⚙️ Automation and Integrations
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+## Server Automation
+
+- Linux Bash scripts
+- Cron jobs
+- Server-health checks
+- WHM backup verification
+- Service-status monitoring
+- Disk-space monitoring
+- Automatic issue detection
+- GLPI API submissions
+
+</td>
+
+<td width="33%" valign="top">
+
+## Website Automation
+
+- WordPress REST API
+- Plugin inventory collection
+- PHP-version collection
+- WordPress-version collection
+- SSL-status checking
+- Website availability checking
+- Domain inventory synchronization
+
+</td>
+
+<td width="33%" valign="top">
+
+## Business Automation
+
+- Slack status reports
+- Company subscription notifications
+- Monthly IT-check importing
+- Employee-device mapping
+- Automatic ticket creation
+- Renewal tracking
+- Monitoring dashboards
+- Historical reporting
 
 </td>
 
@@ -1043,26 +845,21 @@ displayed inside the GLPI Domain Manager.
 
 <br>
 
-**July 2025 – Present**
-
+**July 2025 – Present**  
 **Alabang, Metro Manila — Work from Home**
 
-- Administer WordPress and web-hosting environments using cPanel, Cloudflare,
-  GoDaddy, and WPMU DEV.
+- Administer WordPress websites and web-hosting environments.
 - Manage DNS, SSL certificates, website access, updates, backups, and security.
 - Perform Linux server support using SSH and MobaXterm.
-- Review logs, correct file permissions, transfer backups, extract archives,
-  and troubleshoot website and hosting issues.
-- Monitor uptime, server health, website performance, and backups.
-- Developed an IT monthly-check automation process that reduced manual
-  inspection time by approximately 90%.
-- Implemented and customized GLPI for assets, support tickets, server
-  monitoring, Company subscription records, and administrative workflows.
-- Developed internal portals for administrators, employees, and clients.
+- Review logs, correct permissions, transfer backups, and extract archives.
+- Monitor uptime, backups, server health, and website performance.
+- Developed IT monthly-check automation that reduced manual checking time by
+  approximately 90%.
+- Implemented and customized GLPI for assets, tickets, server monitoring,
+  Company subscription records, and administrative workflows.
+- Developed internal administrator, employee, and client portals.
 
 </details>
-
----
 
 <details>
 <summary><strong>Technical Support Specialist — Civicom Pacific Corporation</strong></summary>
@@ -1071,18 +868,14 @@ displayed inside the GLPI Domain Manager.
 
 **September 2024 – February 2025**
 
-**Alabang, Metro Manila**
-
-- Resolved more than 50 daily support tickets through phone, email, and chat.
+- Resolved more than 50 daily technical support tickets.
 - Maintained an 85–90% first-contact resolution rate.
-- Troubleshot system, software, account-access, and device problems.
-- Configured user accounts, devices, and required system access.
-- Documented issue details, troubleshooting procedures, and resolutions.
-- Escalated complex incidents with complete notes and initial diagnostics.
+- Troubleshot software, system, account-access, and device problems.
+- Configured user accounts, devices, and system access.
+- Documented troubleshooting procedures and resolutions.
+- Escalated complex incidents with complete diagnostics.
 
 </details>
-
----
 
 <details>
 <summary><strong>Data Management Specialist — Civicom Pacific Corporation</strong></summary>
@@ -1091,17 +884,13 @@ displayed inside the GLPI Domain Manager.
 
 **April 2024 – June 2024**
 
-**Alabang, Metro Manila**
-
-- Maintained and validated operational business datasets.
+- Maintained and validated operational datasets.
 - Supported more than 99% accuracy in daily records.
-- Improved data-processing workflows using Microsoft Excel.
+- Improved Excel-based processing workflows.
 - Increased processing efficiency by approximately 20%.
-- Reviewed and corrected data discrepancies before submission.
+- Reviewed and corrected discrepancies before submission.
 
 </details>
-
----
 
 <details>
 <summary><strong>Data Entry Operator — Metro Mandaue Service Corporation</strong></summary>
@@ -1110,13 +899,11 @@ displayed inside the GLPI Domain Manager.
 
 **August 2021 – January 2023**
 
-**Cavite**
-
 - Managed inventory records using SAP and WMS.
 - Updated stock movements and transaction information.
 - Reconciled physical inventory against system records.
 - Maintained an inventory discrepancy rate below 2%.
-- Coordinated with warehouse and operations teams to correct data issues.
+- Coordinated with warehouse and operations teams.
 
 </details>
 
@@ -1130,11 +917,11 @@ displayed inside the GLPI Domain Manager.
 
 **August 2023 – June 2025**
 
-Completed training in:
+Training included:
 
 - Computer systems servicing
-- Computer networking
-- Server setup
+- Networking fundamentals
+- Server installation and configuration
 - Hardware troubleshooting
 - Operating-system installation
 - Computer Systems Servicing NC II coursework
@@ -1154,8 +941,8 @@ Completed training in:
 - Introduction to Cybersecurity — Cisco Networking Academy
 - Microsoft Cybersecurity: Security, Compliance, and Identity Fundamentals
 - Cybersecurity and AI Safety Awareness for Employees
-- Excel Analytics: Linear Regression Analysis
 - Microsoft Excel — Beginner to Advanced
+- Excel Analytics: Linear Regression Analysis
 
 </td>
 
@@ -1184,13 +971,13 @@ Completed training in:
 <img
   width="49%"
   src="https://github-readme-stats.vercel.app/api?username=ricotorres-it&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-  alt="Rico Torres GitHub Statistics"
+  alt="Rico Torres GitHub statistics"
 />
 
 <img
   width="49%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricotorres-it&layout=compact&theme=github_dark&hide_border=true"
-  alt="Rico Torres Most Used Languages"
+  alt="Rico Torres most used programming languages"
 />
 
 <br>
@@ -1198,7 +985,7 @@ Completed training in:
 <img
   width="70%"
   src="https://streak-stats.demolab.com?user=ricotorres-it&theme=github-dark-blue&hide_border=true"
-  alt="Rico Torres GitHub Contribution Streak"
+  alt="Rico Torres GitHub contribution streak"
 />
 
 </div>
@@ -1231,19 +1018,22 @@ Create technical documentation
 
 # 🔒 Portfolio Security Notice
 
-This public portfolio does not contain:
+This public portfolio does not intentionally include:
 
-- Client passwords
+- Passwords
 - API keys
 - Server credentials
+- Private IP addresses
 - Employee personal information
+- Client personal information
+- Payroll information
 - Private databases
 - Production configuration files
 - Complete proprietary source code
 - Confidential company records
 
-All screenshots, examples, domain information, and technical data are
-reviewed and sanitized before publication.
+All project screenshots and examples should be reviewed and sanitized before
+public publication.
 
 ---
 
@@ -1253,17 +1043,17 @@ reviewed and sanitized before publication.
 
 I am interested in opportunities involving:
 
-### Junior System Administration  
-### IT Support and Technical Operations  
-### Linux and Web-Hosting Administration  
-### WordPress Administration  
+### Junior System Administration
+### IT Support and Technical Operations
+### Linux and Web-Hosting Administration
+### WordPress Administration
 ### IT Automation and Infrastructure Monitoring
 
 <br>
 
 [![Email Me](https://img.shields.io/badge/Email_Me-ricordrgz8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricordrgz8@gmail.com)
 [![GitHub](https://img.shields.io/badge/View_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricotorres-it)
-[![Call](https://img.shields.io/badge/Contact-%2B63_924_256_3694-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+639242563694)
+[![Phone](https://img.shields.io/badge/Phone-%2B63_924_256_3694-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+639242563694)
 
 <br><br>
 
